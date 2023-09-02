@@ -1,6 +1,8 @@
 # R/Python Exercise 1
 
-Author : HImanshu Nimbarte
+Author : Himanshu Nimbarte
+
+MS in DS
 
 Repository for R/Python Exercise 1 from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
 
